@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # jupyer check points
-.ipynb_checpoints/
+.ipynb_checpoint/
